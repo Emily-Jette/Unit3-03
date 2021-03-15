@@ -1,13 +1,14 @@
 #mainpage {
-  background-color:  darkslateblue;
+  background-color: darkslateblue;
 }
 
 .header {
   color: rgb(168, 196, 221);
-  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   position: sticky;
   top: 0;
-  border: 3px solid darkgoldenrod; 
+  border: 3px solid darkgoldenrod;
+  
 }
 
 div {
